@@ -1,2 +1,2 @@
-# Shopping-Finance
+# 完善中 ......
 Shopping Finance 
